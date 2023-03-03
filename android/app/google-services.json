@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "926036342928",
+    "project_id": "openaihackathon1",
+    "storage_bucket": "openaihackathon1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926036342928:android:2fb35bb89554bbec1a4015",
+        "android_client_info": {
+          "package_name": "com.mycompany.openaihackathon1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926036342928-unlu6moipsuhn8l07searmu84vsv89im.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.openaihackathon1",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "926036342928-744698hp9uhi9q6idficgbcmtpg2hs1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIMGiGpcqsKbGaPqUWqjoOzRpFv-vfmyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926036342928-744698hp9uhi9q6idficgbcmtpg2hs1v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "926036342928-b7iaif81uet0c146m5ip2r7ignptgksm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.openaihackathon1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
